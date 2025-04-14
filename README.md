@@ -1,13 +1,12 @@
-# 가장 큰 제목
+# KERING's 기록장
 
-## 중간 큰 제목 [책] 데이터가 뛰어노는 AI놀이터, 케글
-- 내용 : 머신러닝 초보에서 케글 초중급으로 가기위한 머시기
-- 설치 방법 및 책 소스 코드
-- - 설치 방법 및 책 소스코드
+## 사고싶은 옷 LISt!! (2025.04.14기준)
+- JUST ONE [이동]https://www.justone.co.kr/shop/shopdetail.html?branduid=90094&search=&xcode=034&mcode=006&scode=&special=3&GfDT=bml7W18%3D
 
-### 제목
+### 국민의 힘은 주 4.5일 근무제 추진..!!
+### 나는 많이 일하고 많이벌고싶은데 ㅠㅠ 왜이랭..
 
-###링크 연결하기
+###링크 연결하기 하고싶은데 어떤링크를 연결해야하지...노션에 내 달력연결해보깡..
 - 설치 방법 및 책 소스코드[이동](https://wikidocs.net/)
 - [이동](https://github.com/LDJWJ/kagglebook)
 
