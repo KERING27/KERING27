@@ -17,9 +17,9 @@
 ### 표 넣기
 |     우선순위     |          품목         |     가격       |     URL    |
 | ---------------- | :-------------------- | -------------: |   -------- |
-| 1                | 바스락 롱스커트+자켓셋업|43,900          |[이동]https://www.justone.co.kr/shop/shopdetail.html?branduid=90094&search=&xcode=034&mcode=006&scode=&special=3&GfDT=bml7W18%3D |
-| 2                | 스카프                | 100,900: |    -------- |
-| 3                | 슬랙스                | 49,000:  |    -------- |
+| 1                | **바스락 롱스커트+자켓셋업**|43,900          |[이동]https://www.justone.co.kr/shop/shopdetail.html?branduid=90094&search=&xcode=034&mcode=006&scode=&special=3&GfDT=bml7W18%3D |
+| 2                | 스카프                | 100,900 |    -------- |
+| 3                | 슬랙스                | 49,000  |    -------- |
 
 
 
